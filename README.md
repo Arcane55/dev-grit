@@ -1,1 +1,1 @@
-# dev-grit
+Learning how to secure secrets with doppler
